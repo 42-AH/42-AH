@@ -6,7 +6,5 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Python is great
 
-<!---
-42-AH/42-AH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![download](https://github.com/42-AH/42-AH/assets/162044943/0b07baeb-f78f-4517-b4d5-f9e8f442f3da)
