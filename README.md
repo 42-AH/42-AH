@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @42-AH
 - 👀 I’m interested in Neural Networks, AI in general, and programming.
-- 🌱 I’m currently learning Fortran (don't ask why)
-- 💞️ I’m looking to collaborate on anythin AI that's in Python
+- 🌱 I’m currently learning Fortran and Go (don't ask why)
+- 💞️ I’m looking to collaborate on anything AI that's in Python or Go
 - 📫 How to reach me: commenting
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Python is great, Go is great, Fortran is old.
