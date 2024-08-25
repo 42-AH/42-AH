@@ -1,8 +1,13 @@
 He/Him
+
 I really like AI, especially neural networks
+
 I know python and go (and some fortran)
+
 looking to colab on anything AI
+
 Best repo: mockfish
+
 Best AI: neural-network-in-go
 
 I'm so sad nobody needs a mediocre chess engine 😭
