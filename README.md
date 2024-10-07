@@ -10,9 +10,7 @@ Best repo: mockfish
 
 Best AI: neural-network-in-go
 
-I'm so sad nobody needs a mediocre chess engine 😭
-
-Please I need something to colab on...
+Please give some feedback on mockfish on how to improve speed or accuracy.
 
 
 
